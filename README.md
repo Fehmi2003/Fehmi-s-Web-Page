@@ -1,6 +1,6 @@
 # My-Personal-Webpage
 My personal website. Inside the site, there are my projects and talents.
-My personal website that I prepared using HTML, CSS, SCSS and JavaScript.
+I prepared using HTML, CSS, SCSS and JavaScript.
 
 
 https://github.com/Fehmi2003/My-Personal-Webpage/assets/94235535/c1f772e6-7c37-48fc-9925-12b2e9b6c394
