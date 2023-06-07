@@ -325,6 +325,7 @@ img{
         }
     }
 }
+
 /* ===== CONTACT =====*/
 .contact{
     &__container{
@@ -486,6 +487,7 @@ img{
             column-gap: 2rem;
         }
     }
+    
 
     .contact{
         &__container{
@@ -502,6 +504,7 @@ img{
             justify-items: center;
         }
     }
+   
 }
 
 @media screen and(min-width: 1024px){

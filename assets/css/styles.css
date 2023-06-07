@@ -274,6 +274,8 @@ img{
 }
 .skills__img img{
     border-radius: .5rem;
+    height: 450px;
+    width: 500px;
 }
 
 /* ===== PORTFOLIO =====*/
@@ -467,6 +469,7 @@ img{
         column-gap: 2rem;
     }
 
+    
     .contact__container{
         grid-template-columns: repeat(2, 1fr);
         justify-items: center;
