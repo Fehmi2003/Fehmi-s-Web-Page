@@ -43,9 +43,7 @@ If you have suggestions, find issues, or want to contribute to the development o
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
-## Contact
 
-For any inquiries or feedback, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com). Thank you for visiting my personal webpage!
 https://github.com/Fehmi2003/My-Personal-Webpage/assets/94235535/c1f772e6-7c37-48fc-9925-12b2e9b6c394
 
 
