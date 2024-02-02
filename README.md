@@ -18,13 +18,6 @@ Welcome to my personal website repository! This website serves as a showcase of 
 
 - **JavaScript:** Enhanced interactivity and dynamic elements on the webpage.
 
-## How to Access
-
-1. **Visit the Website:**
-   - [Your Personal Website URL]
-
-2. **Explore:**
-   - Navigate through the different sections to discover more about my projects and talents.
 
 ## Customize and Use
 
